@@ -1,4 +1,5 @@
-# -
+# Чек -листы 
 Содержит созданные мною тест-кейсы, чек-листы и баг-репорты
-[Прочитать данные из таблицы]([ссылка_на_таблицу](https://docs.google.com/spreadsheets/d/1gOXdDtI-50BCwNmsx-OW8Jg0f9Z0TRCSozNt5UKHei0/edit?gid=943703744#gid=943703744))
+# https://docs.google.com/spreadsheets/d/1gOXdDtI-50BCwNmsx-OW8Jg0f9Z0TRCSozNt5UKHei0/edit?gid=943703744#gid=943703744
+
 
